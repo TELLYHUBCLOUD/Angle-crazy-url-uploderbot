@@ -41,8 +41,8 @@ Tʜᴇ 𝗖𝗿𝗮𝘇𝘆 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 ʜᴀs ɴᴏᴛ
 
 Pʟᴇᴀsᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ Dᴇᴠᴇʟᴏᴘᴇʀ ᴛᴏ ʙᴇ ᴀɴ ᴀᴜᴛʜᴏʀɪsᴇᴅ ᴜsᴇʀ ! 
 """
-    LAZY_DEVELOPER_TEXT = """▍║▍▏║ Hello Dear ADMIN ║▍▏║▍
-⭑┗┫⦀⦙ {} ⦙⦀┣┛⭑
+    LAZY_DEVELOPER_TEXT = """𝗛𝗲𝗹𝗹𝗼 𝗗𝗲𝗮𝗿 𝗔𝗗𝗠𝗜𝗡 😜
+⭑𝗺𝘆 𝗹𝗼𝘃𝗲 {} ⭑
 
  - Tell me what should i do for you.
  - or Just send me any url baby
