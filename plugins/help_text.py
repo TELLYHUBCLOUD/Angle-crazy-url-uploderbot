@@ -49,12 +49,12 @@ async def start(bot, update):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("⚡️𝔖𝔲𝔭𝔭𝔬𝔯𝔱", url="https://t.me/LazyPrincessSupport"),
-                        InlineKeyboardButton("✪ ＹＴ ✪", url="https://youtube.com/@LazyDeveloperr"),
-                        InlineKeyboardButton("⚡️ U𝖕𝖉𝖆𝖙e", url="https://t.me/LazyDeveloper"),
+                        
+                        InlineKeyboardButton("YᴏᴜTᴜʙᴇ", url="https://youtube.com/@sncrazydeveloper"),
+                        InlineKeyboardButton("⚡️ Uᴘᴅᴀᴛᴇ", url="https://t.me/crazybotz"),
                     ],
-                    [InlineKeyboardButton("⭑💢 𝚂 𝙾 𝙲 𝚒 𝙰 𝙻 💢⭑", url="https://instagram.com/LazyDeveloper__")],
-                    [InlineKeyboardButton("🦋 ⭑┗━━┫⦀⦙ O W N E R ⦙⦀┣━━┛⭑ 🦋", url="https://t.me/LazyDeveloperr")],
+                    [InlineKeyboardButton("sᴏᴄɪᴀʟ", url="https://instagram.com/heartless_boy_____95")],
+                    [InlineKeyboardButton("🥷 ᴏᴡɴᴇʀ", url="https://t.me/heartlesssn")],
                 ]
             ),
             reply_to_message_id=update.message_id
@@ -67,12 +67,12 @@ async def start(bot, update):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("⚡️𝔖𝔲𝔭𝔭𝔬𝔯𝔱", url="https://t.me/LazyPrincessSupport"),
-                        InlineKeyboardButton("✪ ＹＴ ✪", url="https://youtube.com/@LazyDeveloperr"),
-                        InlineKeyboardButton("⚡️ U𝖕𝖉𝖆𝖙e", url="https://t.me/LazyDeveloper"),
+                        
+                        InlineKeyboardButton("YᴏᴜTᴜʙᴇ", url="https://youtube.com/@sncrazydeveloper"),
+                        InlineKeyboardButton("⚡️ Uᴘᴅᴀᴛᴇ", url="https://t.me/crazybotz"),
                     ],
-                    [InlineKeyboardButton("⭑💢 𝚂 𝙾 𝙲 𝚒 𝙰 𝙻 💢⭑", url="https://instagram.com/LazyDeveloper__")],
-                    [InlineKeyboardButton("🦋 ⭑┗━━┫⦀⦙ O W N E R ⦙⦀┣━━┛⭑ 🦋", url="https://t.me/LazyDeveloperr")],
+                    [InlineKeyboardButton("sᴏᴄɪᴀʟ", url="https://instagram.com/heartless_boy_____95")],
+                    [InlineKeyboardButton("🥷 ᴏᴡɴᴇʀ", url="https://t.me/heartlesssn")],
                 ]
             ),
             reply_to_message_id=update.message_id
