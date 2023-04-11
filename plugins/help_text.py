@@ -55,6 +55,7 @@ async def start(bot, update):
                     ],
                     [InlineKeyboardButton("sᴏᴄɪᴀʟ", url="https://instagram.com/heartless_boy_____95")],
                     [InlineKeyboardButton("🥷 ᴏᴡɴᴇʀ", url="https://t.me/heartlesssn")],
+                    [InlineKeyboardButton("🎀 supported url", url="https://ytdl-org.github.io/youtube-dl/supportedsites.html")],
                 ]
             ),
             reply_to_message_id=update.message_id
@@ -73,6 +74,7 @@ async def start(bot, update):
                     ],
                     [InlineKeyboardButton("sᴏᴄɪᴀʟ", url="https://instagram.com/heartless_boy_____95")],
                     [InlineKeyboardButton("🥷 ᴏᴡɴᴇʀ", url="https://t.me/heartlesssn")],
+                    [InlineKeyboardButton("🎀 supported url", url="https://ytdl-org.github.io/youtube-dl/supportedsites.html")],
                 ]
             ),
             reply_to_message_id=update.message_id
@@ -89,7 +91,7 @@ async def start(bot, update):
                         InlineKeyboardButton("🔔 Uᴘᴅᴀᴛᴇ", url="https://t.me/crazybotz"),
                     ],
                     [InlineKeyboardButton("sᴏᴄɪᴀʟ", url="https://instagram.com/heartless_boy_____95")],
-                    [InlineKeyboardButton("🥷 supported url", url="https://ytdl-org.github.io/youtube-dl/supportedsites.html")],
+                    [InlineKeyboardButton("🎀 supported url", url="https://ytdl-org.github.io/youtube-dl/supportedsites.html")],
   
                 ]
             ),
